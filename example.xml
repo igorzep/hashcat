@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog id="photo">
+ <name>Travel</name>
+ <info>Shots made when visiting some foreign countries..</info>
+ <archive id="travel-dvd-1">
+  <name>Travel Archive 1</name>
+  <info>DVD-R Archive of chinese trips</info>
+  <file location="2009-10/China/2009102102.cr2">
+   <name>1043.cr2</name>
+   <hash length="1M" MD5="#############" SHA1="#################"/>
+   <hash length="4M" MD5="#############" SHA1="#################"/>
+   <hash length="12345678" MD5="#############" SHA1="#################"/>
+  </file>
+ </archive>
+</catalog>
